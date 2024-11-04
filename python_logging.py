@@ -8,6 +8,7 @@ def laske_summa(numerot):
     for numero in numerot:
         logging.debug(f"Lisätään {numero} summaan {summa}")
         
+        
         summa += numero
     return summa
 
