@@ -1,0 +1,5 @@
+1: Tässä on jotain tekstiä
+2: Toinen rivi
+3: Kolmas rivi
+4: Data1: Python on kiva
+5: Data2: Python on myös käärme

@@ -1,0 +1,5 @@
+Tässä on jotain tekstiä
+Toinen rivi
+Kolmas rivi
+Data1: Python on kiva
+Data2: Python on myös käärme
